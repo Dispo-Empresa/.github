@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/Dispo-Empresa/Dispo-Client/blob/master/src/assets/DispoLogo.png" alt="Open Source Point of Sale Logo" width="auto" height="200" width="200"></p>
+<p align="center"><img src="https://github.com/Dispo-Empresa/Dispo-Client/blob/master/src/assets/DispoLogo.png" alt="Open Source Point of Sale Logo" width="auto" height="300" width="300"></p>
 <h3 align="center">Inventory Management Plus System</h3>
 
 <p align="center">
