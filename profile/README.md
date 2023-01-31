@@ -1,6 +1,6 @@
-Inventory Management Plus System
+Inventory Management Plus System <br><br>
 
-Client: React
-Service: .NET 7
+Client: React <br>
+Service: .NET 7 <br><br>
 
 building...
