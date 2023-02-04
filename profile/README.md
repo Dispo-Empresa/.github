@@ -14,6 +14,7 @@
 
 Client side (Front end): React JS <br>
 Service side (Back end): .NET 7 <br><br>
+Database / ORM: SQL Server / Entity Framework
 
 Algumas das Features:
 
