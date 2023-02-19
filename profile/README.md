@@ -8,6 +8,12 @@
   <a href="#-keep-the-machine-running">Donate</a>
 </p>
 
+<h3 align="center">Desenvolvedores</h3>
+<p align="center">
+  <a href="https://github.com/ArtuoS">Arthur Molinari</a> · <a href="https://github.com/GuilhermeLimaaDoAmaral">Guilherme Amaral</a> ·
+  <a href="https://github.com/Meiteusz">Matheus Teixeira</a>
+</p>
+
 ## 👋 Introdução
 
   O objetivo do Dispo é trazer para os usuários a melhor experiência em facilidade, agilidade e eficiência do mercado de inventários de estoque, por isso chamamos ele de Inventory Management Plus, ele não só fará o básico muito bem como contará com diversas features que irão fazer os usuários economizarem e até ganharem dinheiro ao manejar seu estoque através do Dispo.
