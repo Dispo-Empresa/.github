@@ -11,7 +11,7 @@
 <h3 align="center">Desenvolvedores</h3>
 <p align="center">
   <a href="https://github.com/ArtuoS">Arthur Molinari</a> · <a href="https://github.com/GuilhermeLimaaDoAmaral">Guilherme Amaral</a> ·
-  <a href="https://github.com/Meiteusz">Matheus Teixeira</a>
+  <a href="https://github.com/Meiteusz">Matheus Teixeira</a> . <a href="https://github.com/MatheusAmaral89y">Matheus Amaral</a>
 </p>
 
 ## 👋 Introdução
