@@ -2,12 +2,6 @@
 <h3 align="center">Seu estoque organizado com mais destreza e dinheiro.</h3>
 <h4 align="center">Inventory Management Plus System - WMS</h4>
 
-<p align="center">
-  <a href="#-introduction">Introduction</a> · <a href="#-live-demo">Demo</a> ·
-  <a href="#-participants">Participants</a> · <a href="#-reporting-bugs">Bugs</a> ·
-  <a href="#-keep-the-machine-running">Donate</a>
-</p>
-
 <h3 align="center">Desenvolvedores</h3>
 <p align="center">
   <a href="https://github.com/ArtuoS">Arthur Molinari</a> · <a href="https://github.com/GuilhermeLimaaDoAmaral">Guilherme Amaral</a> ·
@@ -21,7 +15,3 @@
 Client side (Front end): React JS <br>
 Service side (Back end): .NET 7 <br>
 Database / ORM: SQL Server / Entity Framework <br><br>
-
-Algumas das Features:
-
-- building...
